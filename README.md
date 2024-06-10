@@ -1,9 +1,9 @@
-# 8086-Zadaca3
+# 8086-exercise3
 
-![Screenshot (5)](https://github.com/tamaraatanasova/8086-Zadaca3/blob/main/zad3.png)
-![Screenshot (5)](https://github.com/tamaraatanasova/8086-Zadaca3/blob/main/2.png)
+![Screenshot (5)](https://github.com/ilievatijana/8086-exercise3/blob/main/zad3.png)
+![Screenshot (5)](https://github.com/ilievatijana/8086-exercise3/blob/main/2.png)
 
-[Tamara Atanasova ](https://github.com/tamaraatanasova)
+[Tijana Ilieva ](https://github.com/ilievatijana)
 
 **Subject**
 
